@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-lesson4"]=this["webpackJsonpreact-lesson4"]||[]).push([[0],{3:function(e,t,n){"use strict";n.r(t);var o=n(0),s=n.n(o),r=n(2),a=n.n(r),c=s.a.createElement("a",{href:"http://www.google.com"},"\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f \u043d\u0430 \u0433\u0443\u0433\u043b");a.a.render(c,document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.b755d8e8.chunk.js.map

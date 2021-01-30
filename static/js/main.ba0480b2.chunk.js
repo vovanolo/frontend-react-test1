@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-lesson4"]=this["webpackJsonpreact-lesson4"]||[]).push([[0],{3:function(e,t,n){"use strict";n.r(t);var s=n(0),r=n.n(s),a=n(2),c=n.n(a),o=r.a.createElement("h1",{},"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u0430\u0439\u0442\u0443");c.a.render(o,document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.ba0480b2.chunk.js.map

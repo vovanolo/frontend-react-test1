@@ -7,4 +7,6 @@ const link = React.createElement(
   "Посилання на гугл"
 );
 
-ReactDOM.render(link, document.getElementById("root"));
+const header = React.createElement("h1", {}, "Заголовок сайту");
+
+ReactDOM.render(header, document.getElementById("root"));
